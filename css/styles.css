@@ -87,12 +87,14 @@ body {
 }
 .header-nav-item {
   color: var(--bg-btn-hover);
-  color: #2e2f42;
 }
 
 .header-nav-link:hover,
 .header-nav-link:focus {
   color: var(--text-hover-link-blue);
+}
+.header-nav-link {
+  color: #2e2f42;
 }
 
 .header-address {
