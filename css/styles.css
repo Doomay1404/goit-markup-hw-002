@@ -94,7 +94,7 @@ body {
   color: var(--text-hover-link-blue);
 }
 .header-nav-link {
-  color: #2e2f42;
+  color: var(--bg-dark-color);
 }
 
 .header-address {
