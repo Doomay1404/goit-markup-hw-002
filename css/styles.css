@@ -87,6 +87,7 @@ body {
 }
 .header-nav-item {
   color: var(--bg-btn-hover);
+  color: #2e2f42;
 }
 
 .header-nav-link:hover,
@@ -143,6 +144,11 @@ body {
 
 .section-h {
   letter-spacing: 0.02em;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .section-logo {
@@ -164,6 +170,9 @@ body {
 
 .team {
   background-color: var(--bg-ligt-grey-color);
+}
+.team-li {
+  background-color: #ffffff;
 }
 
 .team-list {
